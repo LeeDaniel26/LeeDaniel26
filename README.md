@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B86C5,50:784B80,100:FF3CAC&section=footer&height=80&text=Daniel%20Lee&fontColor=FFFFFF&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B86C5,50:784B80,100:FF3CAC&section=footer&height=80&text=Daniel%200Lee&fontColor=FFFFFF&fontSize=70)
