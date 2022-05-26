@@ -5,9 +5,9 @@
 <p align="center"> Main </p>
 
 <p align="center">
-![](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=CSharp&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black) ![](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
+  ![](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=CSharp&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black) ![](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
 
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+  ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
