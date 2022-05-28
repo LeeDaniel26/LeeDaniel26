@@ -25,4 +25,4 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeDaniel26&theme=github_dark&show_icons=true) ![DanielLee's github stats](https://github-readme-stats.vercel.app/api?username=LeeDaniel26&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeDaniel26&theme=github_dark&show_icons=true)
