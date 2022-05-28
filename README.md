@@ -23,3 +23,5 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeDaniel26&theme=dark&show_icons=true)
